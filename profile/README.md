@@ -27,5 +27,5 @@ OCP Universe is playground for various related topics about Kubernetes and OpenS
 ### ⚡ Disclaimer
 
 This space has NO relation to Red Hat, OpenShift or similar. 
-I am not a representative of Red Hat and my views about Red Hat are my own.
+I am not a representative of Red Hat and my views about Red Hat, Red Hat portfolio or any other products are my own.
 
